@@ -44,6 +44,10 @@ class Solution:
 
         i=0
         while i<(len(nums)-2):
+
+            if nums[i] > 0:
+                break
+
             j = i+1
             k = len(nums)-1
             
