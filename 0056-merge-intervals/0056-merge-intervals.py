@@ -8,7 +8,7 @@ class Solution:
         output = [intervals[0]]
         
         for start, end in intervals[1:]:
-            start_previous, end_previous = output[-1]
+            end_previous = output[-1][1]
 
             if start <= end_previous:
                 output[-1][1] = max(end, end_previous)
