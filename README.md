@@ -16,3 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Caliber-X/LeetCode/tree/master/0217-contains-duplicate) |
+# String
+|  |
+| ------- |
+| [3451-string-compression-iii](https://github.com/Caliber-X/LeetCode/tree/master/3451-string-compression-iii) |
