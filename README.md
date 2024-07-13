@@ -38,4 +38,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Caliber-X/LeetCode/tree/master/0226-invert-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Caliber-X/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Caliber-X/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Caliber-X/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
