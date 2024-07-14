@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Caliber-X/LeetCode/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Caliber-X/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
@@ -55,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Caliber-X/LeetCode/tree/master/0125-valid-palindrome) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Caliber-X/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
