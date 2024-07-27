@@ -6,12 +6,12 @@ class Solution:
         while True:
             if end >= len(nums):
                 break
-            print(start, end, end=" -> ")
+            # print(start, end, end=" -> ")
             if nums[end] > nums[start] or (nums[end] == nums[start] and nums[start] != nums[start-1]):
-                print("yes", end="")
+                # print("yes", end="")
                 start += 1
                 nums[start], nums[end] = nums[end], nums[start]
                 count += 1
-            print(" ", nums)
+            # print(" ", nums)
             end += 1
         return count
