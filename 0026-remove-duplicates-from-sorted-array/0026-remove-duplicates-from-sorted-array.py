@@ -8,8 +8,7 @@ class Solution:
                 break
             if nums[end] > nums[start]:
                 start += 1
-                if start != end:
-                    nums[start], nums[end] = nums[end], nums[start]
+                nums[start], nums[end] = nums[end], nums[start]
                 count += 1
             end += 1
         return count
