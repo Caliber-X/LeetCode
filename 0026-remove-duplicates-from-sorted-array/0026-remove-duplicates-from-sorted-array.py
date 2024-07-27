@@ -4,7 +4,7 @@ class Solution:
         end = 1
         count = 1
         while True:
-            if end >= len(nums):
+            if end == len(nums):
                 break
             if nums[end] > nums[start]:
                 start += 1
@@ -12,5 +12,3 @@ class Solution:
                 count += 1
             end += 1
         return count
-
-        
