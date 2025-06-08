@@ -71,10 +71,9 @@ class Solution:
                     matrix[i][j] = 0
                 else:
                     matrix[i][j] = 1 + min(top, left, diag)
+                    val_max = max(val_max, matrix[i][j])
 
-                val_max = max(val_max, matrix[i][j])
-
-        return val_max ** 2
+        return val_max * val_max
 
 
 
