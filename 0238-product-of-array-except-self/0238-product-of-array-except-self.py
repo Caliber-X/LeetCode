@@ -7,8 +7,8 @@ class Solution:
             result[i] = result[i-1] * nums[i-1]
         
         post_val = 1
-        for i in range(n-2, -1, -1):
-            result[i] *= post_val * nums[i+1]
-            post_val *= nums[i+1]
+        for i in range(n-1, -1, -1):
+            result[i] *= post_val
+            post_val *= nums[i]
 
         return result
