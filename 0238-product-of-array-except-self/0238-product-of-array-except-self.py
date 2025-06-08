@@ -5,7 +5,7 @@ class Solution:
 
         for i in range(1, n):
             result[i] = result[i-1] * nums[i-1]
-        print(result)
+        
         post_val = 1
         for i in range(n-2, -1, -1):
             result[i] *= post_val * nums[i+1]
