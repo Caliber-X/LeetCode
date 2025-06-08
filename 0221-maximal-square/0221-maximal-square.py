@@ -1,6 +1,6 @@
 class Solution:
     def maximalSquare(self, matrix: List[List[str]]) -> int:
-        
+        """recursion"""
         rows, cols = len(matrix), len(matrix[0])
         cache = {}
 
@@ -17,9 +17,12 @@ class Solution:
 
             cache[(r,c)] = 0
             if matrix[r][c] == "1":
-                cache[(r,c)] += 1 + min(bottom, right, diag)
+                cache[(r,c)] = 1 + min(bottom, right, diag)
             
             return cache[(r,c)]
 
         recurse(0, 0)
         return max(cache.values()) ** 2
+
+    # def maximalSquare(self, matrix: List[List[str]]) -> int:
+    #     pass
