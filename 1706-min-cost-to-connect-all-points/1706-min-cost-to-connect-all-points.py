@@ -26,6 +26,7 @@ class Solution:
                     continue
                 cost = neighbour_cost[(min(i,idx), max(i,idx))]
                 heapq.heappush(heap, (cost, i))
+            # print(idx, heap)
 
         return cost_min
             
