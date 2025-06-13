@@ -12,7 +12,7 @@ class Solution:
                 neighbour_cost[(i,j)] = abs(x1-x2) + abs(y1-y2)
 
         # prim's algo
-        heap = [[0,0]]
+        heap = [[0,N//2]]
         visited = set()
         cost_min = 0
         while len(visited) < N:
