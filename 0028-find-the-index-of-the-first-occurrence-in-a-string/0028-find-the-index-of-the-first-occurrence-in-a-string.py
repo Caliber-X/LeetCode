@@ -9,10 +9,11 @@ class Solution:
 
     # 2 pointer
     def strStr(self, haystack: str, needle: str) -> int:
-        for i in range(len(haystack) - len(needle) + 1):
+        H, N = len(haystack), len(needle)
+        for i in range(H-N+1):
             match = True
-            for p_needle in range(len(needle)//2+(len(needle)%2)):
-                if needle[p_needle] != haystack[i+p_needle] or needle[len(needle)-p_needle-1] != haystack[i+(len(needle)-p_needle-1)]:
+            for p_needle in range((N//2)+(N%2)):
+                if needle[p_needle] != haystack[i+p_needle] or needle[N-p_needle-1] != haystack[i+(N-p_needle-1)]:
                     match = False
                     break
             if match:
