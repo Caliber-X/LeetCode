@@ -22,7 +22,7 @@ class Solution:
             cost_min += cost
             visited.add(idx)
             for i in range(N):
-                if i == idx:
+                if (i == idx) or (i in visited):
                     continue
                 cost = neighbour_cost[(min(i,idx), max(i,idx))]
                 heapq.heappush(heap, (cost, i))
