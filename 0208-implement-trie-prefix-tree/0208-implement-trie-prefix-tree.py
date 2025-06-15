@@ -1,19 +1,18 @@
 class Tree:
-    def __init__(self, val):
-        self.val = val
+    def __init__(self):
         self.children = dict()
         self.is_end = False
 
 class Trie:
 
     def __init__(self):
-        self.tree = Tree(None)
+        self.tree = Tree()
 
     def insert(self, word: str) -> None:
         tree = self.tree
         for char in word:
             if char not in tree.children.keys():
-                tree.children[char] = Tree(char)
+                tree.children[char] = Tree()
             tree = tree.children[char]
         tree.is_end = True
 
