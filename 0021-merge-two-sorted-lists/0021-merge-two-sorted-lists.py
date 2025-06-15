@@ -15,13 +15,9 @@ class Solution:
                 merge.next = list2
                 list2 = list2.next
             merge = merge.next
-        while list1 is not None:
+        if list1 is not None:
             merge.next = list1
-            list1 = list1.next
-            merge = merge.next
-        while list2 is not None:
+        elif list2 is not None:
             merge.next = list2
-            list2 = list2.next
-            merge = merge.next
         return res.next
         
