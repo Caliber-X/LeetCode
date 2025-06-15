@@ -21,10 +21,9 @@ class Solution:
         
         for j in range(len(nums2)):
             num2 = nums2[j]
-            if len(stack) > 0:
-                if num2 > stack[-1]:
-                    while len(stack) > 0 and num2 > stack[-1]:
-                        nxt_largest[stack.pop()] = num2
+            if len(stack) > 0 and num2 > stack[-1]:
+                while len(stack) > 0 and num2 > stack[-1]:
+                    nxt_largest[stack.pop()] = num2
             stack.append(num2)
             # print(f"{j=} {stack=} {nxt_largest=}")
         
