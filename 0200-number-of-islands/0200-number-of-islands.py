@@ -19,12 +19,8 @@ class Solution:
         for i in range(R):
             for j in range(C):
                 val = grid[i][j]
-                if val == "0":
-                    continue
-                if val == "2":
-                    continue
-                # val == "1"
-                count += 1
-                dfs(i, j)
+                if val == "1":
+                    count += 1
+                    dfs(i, j)
 
         return count
