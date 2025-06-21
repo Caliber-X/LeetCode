@@ -6,11 +6,14 @@ class Solution:
         while r < len(s):
             if s[r] in window:
                 max_len = max(max_len, len(window))
-                while True:
+                # while True:
+                #     window.remove(s[l])
+                #     l += 1
+                #     if s[l-1] == s[r]:
+                #         break
+                while s[r] in window:
                     window.remove(s[l])
                     l += 1
-                    if s[l-1] == s[r]:
-                        break
             window.add(s[r])
             # print(window)
             r += 1
