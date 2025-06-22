@@ -3,22 +3,23 @@ class Solution:
         dict_need = {}
         for char in p:
             dict_need[char] = 1 + dict_need.get(char, 0)
-        count_need = sum(dict_need.values())
         dict_window = {}
-        count_have = 0
         
         l = 0
         result = []
 
         for r, char in enumerate(s):
-            dict_window[char] = 1 + dict_window.get(char, 0)
-            count_have += 1
-            
-            if count_have == count_need:
-                if all(True if dict_window.get(char, 0) == dict_need[char] else False for char in dict_need):
-                    result.append(l)
+            if r-l+1 > len(p):
                 dict_window[s[l]] -= 1
+                if dict_window[s[l]] == 0:
+                    dict_window.pop(s[l])
                 l += 1
-                count_have -= 1
+
+            dict_window[char] = 1 + dict_window.get(char, 0)
+            # print(dict_window)
+
+            # if all(True if dict_window.get(char, 0) == dict_need[char] else False for char in dict_need):
+            if dict_window == dict_need:
+                result.append(l)
 
         return result
