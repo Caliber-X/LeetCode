@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/Caliber-X/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Caliber-X/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Caliber-X/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Caliber-X/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Caliber-X/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Caliber-X/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0496-next-greater-element-i](https://github.com/Caliber-X/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Caliber-X/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Caliber-X/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Caliber-X/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Caliber-X/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Caliber-X/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Caliber-X/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/Caliber-X/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/Caliber-X/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Caliber-X/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Caliber-X/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Caliber-X/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -181,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Caliber-X/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Caliber-X/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
@@ -218,5 +222,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Caliber-X/LeetCode/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Caliber-X/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Caliber-X/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
