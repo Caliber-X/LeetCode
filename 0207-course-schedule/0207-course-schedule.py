@@ -18,8 +18,8 @@ class Solution:
             for dependency in dependencies:
                 if dfs(dependency) is False:
                     return False
-            visited.remove(course)
-            premap.pop(course)
+            visited.remove(course)  # i haven't visited, if visited means i'm looped
+            premap.pop(course)      # popping from prempa, tells we have no dependencies
             return True
 
         for course in range(numCourses):
