@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Caliber-X/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Caliber-X/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Caliber-X/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Caliber-X/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Caliber-X/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Caliber-X/LeetCode/tree/master/0733-flood-fill) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Caliber-X/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Caliber-X/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Caliber-X/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Caliber-X/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Caliber-X/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Caliber-X/LeetCode/tree/master/0733-flood-fill) |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Caliber-X/LeetCode/tree/master/0207-course-schedule) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Caliber-X/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -232,4 +235,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Caliber-X/LeetCode/tree/master/0268-missing-number) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Caliber-X/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
