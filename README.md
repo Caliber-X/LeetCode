@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Caliber-X/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Caliber-X/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Caliber-X/LeetCode/tree/master/0744-network-delay-time) |
+| [1036-rotting-oranges](https://github.com/Caliber-X/LeetCode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Caliber-X/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Caliber-X/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Caliber-X/LeetCode/tree/master/0739-daily-temperatures) |
+| [1036-rotting-oranges](https://github.com/Caliber-X/LeetCode/tree/master/1036-rotting-oranges) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Caliber-X/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Caliber-X/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/Caliber-X/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Caliber-X/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Caliber-X/LeetCode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Caliber-X/LeetCode/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
