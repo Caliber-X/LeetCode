@@ -21,7 +21,7 @@ class Solution:
             return neighbors
 
         count_fresh = 0
-        rotten = []
+        rotten = deque()
         for r in range(M):
             for c in range(N):
                 if grid[r][c] == 1:
@@ -39,16 +39,14 @@ class Solution:
         # multi source bfs
         count = -1
         while len(rotten) > 0:
-
             count += 1
-            rotten_next_level = []
 
-            for r, c in rotten:
-                for nr, nc in get_fresh_neighbors(r, c):
-                    rotten_next_level.append((nr, nc))
+            size = len(rotten)
+            for _ in range(size):
+                r,c = rotten.popleft()
+                for nr, nc in get_fresh_neighbors(r,c):
+                    rotten.append((nr, nc))
                     grid[nr][nc] = 2
                     count_fresh -= 1
-
-            rotten = rotten_next_level
 
         return count if count_fresh == 0 else -1
