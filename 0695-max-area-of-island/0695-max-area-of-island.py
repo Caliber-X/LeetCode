@@ -61,6 +61,7 @@ class Solution:
                     if grid[r_][c_] != 1:
                         continue
 
+                    # land & not visited
                     grid[r_][c_] = 2
                     count += 1
                     # print((r_,c_), count)
