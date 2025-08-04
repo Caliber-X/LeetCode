@@ -3,7 +3,7 @@ class Solution:
         # heap = []
         # for point in points:
         #     x,y = point
-        #     dist = (x**2 + y**2)**0.5
+        #     dist = x**2 + y**2
         #     heapq.heappush(heap, (dist, point))
 
         # output = []
@@ -15,7 +15,7 @@ class Solution:
 
         output = heapq.nsmallest(
             k,
-            map(lambda point: ((point[0]**2 + point[1]**2)**0.5, point), points),
+            map(lambda point: (point[0]**2 + point[1]**2, point), points),
             key=lambda x: x[0]
         )
         output = [*map(lambda x: x[1], output)]
