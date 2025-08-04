@@ -12,4 +12,3 @@ class Solution:
             output.append(point)
         
         return output
-
