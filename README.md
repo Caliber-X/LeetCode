@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Caliber-X/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Caliber-X/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Caliber-X/LeetCode/tree/master/0739-daily-temperatures) |
+| [1014-k-closest-points-to-origin](https://github.com/Caliber-X/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Caliber-X/LeetCode/tree/master/1036-rotting-oranges) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Caliber-X/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Caliber-X/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Caliber-X/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Caliber-X/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/Caliber-X/LeetCode/tree/master/0744-network-delay-time) |
+| [1014-k-closest-points-to-origin](https://github.com/Caliber-X/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -253,11 +255,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/Caliber-X/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Caliber-X/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Caliber-X/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Caliber-X/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Caliber-X/LeetCode/tree/master/0268-missing-number) |
+| [1014-k-closest-points-to-origin](https://github.com/Caliber-X/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Topological Sort
 |  |
 | ------- |
@@ -271,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Caliber-X/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/Caliber-X/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Caliber-X/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -283,4 +288,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Caliber-X/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Caliber-X/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Caliber-X/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
