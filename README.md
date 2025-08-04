@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Caliber-X/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Caliber-X/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Caliber-X/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Caliber-X/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Caliber-X/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Caliber-X/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Caliber-X/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Caliber-X/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/Caliber-X/LeetCode/tree/master/0744-network-delay-time) |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Caliber-X/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Caliber-X/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Caliber-X/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Caliber-X/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
@@ -293,4 +296,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Caliber-X/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Caliber-X/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
