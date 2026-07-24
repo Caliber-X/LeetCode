@@ -1,12 +1,5 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
-        if len(strs) == 0:
-            return "" 
-
-        word = strs[0]
-        if len(word) == 0:
-            return ""
-
         prefix = ""
         idx = -1
         while True:
